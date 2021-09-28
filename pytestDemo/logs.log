@@ -1,0 +1,65 @@
+2021-08-05 21:55:31,587 : INFO : Utilities.BaseClass : First name is Hari Simha
+2021-08-05 21:55:31,587 : INFO : Utilities.BaseClass : First name is Hari Simha
+2021-08-05 21:55:31,827 : INFO : Utilities.BaseClass : Correct Email
+2021-08-05 21:55:31,827 : INFO : Utilities.BaseClass : Correct Email
+2021-08-05 21:55:33,203 : INFO : Utilities.BaseClass : First name is Raghu Prem
+2021-08-05 21:55:33,203 : INFO : Utilities.BaseClass : First name is Raghu Prem
+2021-08-05 21:55:33,203 : INFO : Utilities.BaseClass : First name is Raghu Prem
+2021-08-05 21:55:33,411 : INFO : Utilities.BaseClass : Correct Email
+2021-08-05 21:55:33,411 : INFO : Utilities.BaseClass : Correct Email
+2021-08-05 21:55:33,411 : INFO : Utilities.BaseClass : Correct Email
+2021-08-05 21:57:34,455 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-05 21:57:36,081 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-05 21:57:36,081 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-05 22:00:34,531 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-05 22:00:36,771 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-05 22:00:36,771 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 11:43:18,478 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 11:43:21,452 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 11:43:21,452 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 11:49:00,625 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 11:49:03,556 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 11:49:03,556 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 11:49:51,640 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 11:49:54,034 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 11:49:54,034 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:26:00,345 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:26:02,325 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:26:02,325 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:32:13,795 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:32:16,205 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:32:16,205 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:32:33,283 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:32:35,441 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:32:35,441 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:34:30,744 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:34:32,852 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:34:32,852 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:35:17,293 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:35:19,927 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:35:19,927 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:37:57,893 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:37:59,507 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:37:59,507 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:40:34,168 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:40:35,777 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:40:35,777 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:58:09,210 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-06 12:58:11,231 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-06 12:58:11,231 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-09 12:08:34,335 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-09 12:08:37,127 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-09 12:08:37,127 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:16:25,465 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-18 16:16:29,333 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:16:29,333 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:20:35,842 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-18 16:20:39,846 : WARNING : test_testcase1 : Raghu Prem is printing twice
+2021-08-18 16:20:40,580 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:20:40,580 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:20:43,717 : WARNING : test_testcase1 : Raghu Prem is printing twice
+2021-08-18 16:20:43,717 : WARNING : test_testcase1 : Raghu Prem is printing twice
+2021-08-18 16:22:32,043 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-18 16:22:33,748 : WARNING : test_testcase1 : Raghu Prem is printing twice
+2021-08-18 16:24:16,418 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-18 16:24:18,194 : WARNING : test_testcase1 : Raghu Prem is printing twice

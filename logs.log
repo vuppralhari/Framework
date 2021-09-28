@@ -1,0 +1,8 @@
+2021-08-09 12:06:24,913 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-09 12:06:27,853 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-09 12:06:27,853 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:01:16,649 : INFO : test_testcase1 : First name is Hari Simha
+2021-08-18 16:01:19,512 : INFO : test_testcase1 : First name is Raghu Prem
+2021-08-18 16:01:19,512 : INFO : test_testcase1 : First name is Raghu Prem
+2021-09-28 11:34:30,289 : INFO : test_testcase1 : First name is Hari Simha
+2021-09-28 11:34:33,456 : WARNING : test_testcase1 : Raghu Prem is printing twice
